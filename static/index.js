@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://https://misaka10630.github.io/eatbill/static/image/ClickBefore.png';
+var url = 'https://misaka10630.github.io/eatbill/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
